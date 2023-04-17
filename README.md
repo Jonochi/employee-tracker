@@ -21,7 +21,7 @@ N/A
 CLI functionality to allow users to track employees
 ## Demo
 
-[Demo video here]()
+[Demo video here](https://drive.google.com/file/d/1ytOnWN5htSGLu7okjhqAJTE6N4YTYIYa/view)
    
 
 ## Credits
